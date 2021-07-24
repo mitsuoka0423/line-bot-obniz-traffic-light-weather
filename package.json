@@ -1,0 +1,27 @@
+{
+  "name": "line-bot-obniz-traffic-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tmitsuoka0423/line-bot-obniz-traffic-light.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmitsuoka0423/line-bot-obniz-traffic-light/issues"
+  },
+  "homepage": "https://github.com/tmitsuoka0423/line-bot-obniz-traffic-light#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.3.0",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "obniz": "^3.16.0"
+  }
+}
